@@ -1,10 +1,15 @@
-# Hi! I'm Maxim Zavadskiy 👋
+# Hi! I'm Maxim Zavadskiy 👨‍💻
 
-### 📈 Codewars 
+**A beginner frontend developer from Belarus. I am developing web application interfaces using JavaScript. Specifically React.**
+
+## 📈 JavaScript codewars statistics
 ![Flutter](https://www.codewars.com/users/EvilTT/badges/large) 
 
-### 📄 Info
+## 📄 My account information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilTT&show_icons=true&theme=tokyonight)
 
+## 📩 Email for communication
+### `maxim.zavadski@gmail.com`
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvilTT&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+*Take a look at the repositories, there is something to look at!*
