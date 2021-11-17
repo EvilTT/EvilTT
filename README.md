@@ -1,6 +1,6 @@
 # Hi! I'm Maxim Zavadskiy 👨‍💻
 
-**A beginner frontend developer from Belarus. I am developing web application interfaces using JavaScript. Specifically React.**
+***A beginner frontend developer from Belarus. I am developing web application interfaces using JavaScript. Specifically React.***
 
 ### 📈 JavaScript codewars statistics
 ![Flutter](https://www.codewars.com/users/EvilTT/badges/large) 
