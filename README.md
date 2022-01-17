@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilTT&show_icons=true&theme=tokyonight)
 
 ### 📩 Email for communication
-**maxim.zavadski@gmail.com**  
+### maxim.zavadski@gmail.com 
 
 *Take a look at the repositories, there is something to look at!*  
 *You can check me out on LinkedIn - [***click***](www.linkedin.com/in/maxim-zavadski)*
